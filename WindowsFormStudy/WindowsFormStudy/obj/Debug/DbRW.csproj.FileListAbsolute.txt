@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\WindowsFormStudy\WindowsFormStudy\bin\Debug\WindowsFormStudy.exe.config
+C:\Users\Administrator\source\repos\WindowsFormStudy\WindowsFormStudy\bin\Debug\WindowsFormStudy.exe
+C:\Users\Administrator\source\repos\WindowsFormStudy\WindowsFormStudy\bin\Debug\WindowsFormStudy.pdb
+C:\Users\Administrator\source\repos\WindowsFormStudy\WindowsFormStudy\obj\Debug\DbRW.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\WindowsFormStudy\WindowsFormStudy\obj\Debug\WindowsFormStudy.FrmMain.resources
+C:\Users\Administrator\source\repos\WindowsFormStudy\WindowsFormStudy\obj\Debug\WindowsFormStudy.Properties.Resources.resources
+C:\Users\Administrator\source\repos\WindowsFormStudy\WindowsFormStudy\obj\Debug\DbRW.csproj.GenerateResource.Cache
+C:\Users\Administrator\source\repos\WindowsFormStudy\WindowsFormStudy\obj\Debug\DbRW.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WindowsFormStudy\WindowsFormStudy\obj\Debug\WindowsFormStudy.exe
+C:\Users\Administrator\source\repos\WindowsFormStudy\WindowsFormStudy\obj\Debug\WindowsFormStudy.pdb

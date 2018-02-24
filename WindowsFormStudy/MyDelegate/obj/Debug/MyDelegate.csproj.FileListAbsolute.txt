@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\WindowsFormStudy\MyDelegate\bin\Debug\MyDelegate.exe.config
+C:\Users\Administrator\source\repos\WindowsFormStudy\MyDelegate\bin\Debug\MyDelegate.exe
+C:\Users\Administrator\source\repos\WindowsFormStudy\MyDelegate\bin\Debug\MyDelegate.pdb
+C:\Users\Administrator\source\repos\WindowsFormStudy\MyDelegate\obj\Debug\MyDelegate.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\WindowsFormStudy\MyDelegate\obj\Debug\MyDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WindowsFormStudy\MyDelegate\obj\Debug\MyDelegate.exe
+C:\Users\Administrator\source\repos\WindowsFormStudy\MyDelegate\obj\Debug\MyDelegate.pdb
