@@ -9,3 +9,14 @@ c:\users\administrator\source\repos\WindowsFormStudy\WindowsFormsThread\bin\Debu
 c:\users\administrator\source\repos\WindowsFormStudy\WindowsFormsThread\bin\Debug\WindowsFormsThread.pdb
 c:\users\administrator\source\repos\WindowsFormStudy\WindowsFormsThread\obj\Debug\WindowsFormsThread.exe
 c:\users\administrator\source\repos\WindowsFormStudy\WindowsFormsThread\obj\Debug\WindowsFormsThread.pdb
+C:\Users\Administrator\source\repos\My\WindowsFormStudy\WindowsFormsThread\bin\Debug\WindowsFormsThread.exe.config
+C:\Users\Administrator\source\repos\My\WindowsFormStudy\WindowsFormsThread\bin\Debug\WindowsFormsThread.exe
+C:\Users\Administrator\source\repos\My\WindowsFormStudy\WindowsFormsThread\bin\Debug\WindowsFormsThread.pdb
+C:\Users\Administrator\source\repos\My\WindowsFormStudy\WindowsFormsThread\obj\Debug\WindowsFormsThread.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\My\WindowsFormStudy\WindowsFormsThread\obj\Debug\WindowsFormsThread.FormMain.resources
+C:\Users\Administrator\source\repos\My\WindowsFormStudy\WindowsFormsThread\obj\Debug\WindowsFormsThread.FormOther.resources
+C:\Users\Administrator\source\repos\My\WindowsFormStudy\WindowsFormsThread\obj\Debug\WindowsFormsThread.Properties.Resources.resources
+C:\Users\Administrator\source\repos\My\WindowsFormStudy\WindowsFormsThread\obj\Debug\WindowsFormsThread.csproj.GenerateResource.Cache
+C:\Users\Administrator\source\repos\My\WindowsFormStudy\WindowsFormsThread\obj\Debug\WindowsFormsThread.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\My\WindowsFormStudy\WindowsFormsThread\obj\Debug\WindowsFormsThread.exe
+C:\Users\Administrator\source\repos\My\WindowsFormStudy\WindowsFormsThread\obj\Debug\WindowsFormsThread.pdb

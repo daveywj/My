@@ -32,7 +32,7 @@ namespace WindowsFormsThread
                 int a = 0;
             string str = "";
                 Thread objThread1 = new Thread(() => {
-                    for (int i = 0; i < 100; i++)
+                    for (int i = 0; i < 10; i++)
                     {
                         a += 1;
                         if (this.lblResult1.InvokeRequired)
@@ -41,7 +41,7 @@ namespace WindowsFormsThread
                             this.lblResult1.Invoke(new Action<string>(s=> { this.lblResult1.Text = s; }),str);
                         }
                        // this.lblResult1.Text = a.ToString();
-                        Thread.Sleep(2000);
+                        Thread.Sleep(200);
            
                     }
                 

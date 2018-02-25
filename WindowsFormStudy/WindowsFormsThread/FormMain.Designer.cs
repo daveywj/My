@@ -32,6 +32,7 @@
             this.LblMark = new System.Windows.Forms.Label();
             this.btn_Chancel = new System.Windows.Forms.Button();
             this.lblResult1 = new System.Windows.Forms.Label();
+            this.btn_Task = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // BtnQuire
@@ -75,11 +76,22 @@
             this.lblResult1.Size = new System.Drawing.Size(0, 19);
             this.lblResult1.TabIndex = 2;
             // 
+            // btn_Task
+            // 
+            this.btn_Task.Location = new System.Drawing.Point(32, 231);
+            this.btn_Task.Name = "btn_Task";
+            this.btn_Task.Size = new System.Drawing.Size(91, 34);
+            this.btn_Task.TabIndex = 3;
+            this.btn_Task.Text = "Task";
+            this.btn_Task.UseVisualStyleBackColor = true;
+            this.btn_Task.Click += new System.EventHandler(this.btn_Task_Click);
+            // 
             // FormMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(298, 277);
+            this.Controls.Add(this.btn_Task);
             this.Controls.Add(this.lblResult1);
             this.Controls.Add(this.LblMark);
             this.Controls.Add(this.btn_Chancel);
@@ -99,6 +111,7 @@
         private System.Windows.Forms.Label LblMark;
         private System.Windows.Forms.Button btn_Chancel;
         private System.Windows.Forms.Label lblResult1;
+        private System.Windows.Forms.Button btn_Task;
     }
 }
 
